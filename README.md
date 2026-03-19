@@ -1,7 +1,5 @@
 # 📊 Customer Behavior Data Analyst Portfolio Project
 
-![Project Header](https://github.com/user-attachments/assets/abbb6371-a0b2-4bec-a304-7c7da98658b6)
-
 ## 📌 Project Overview
 This project demonstrates a comprehensive, industry-standard end-to-end data analytics workflow. It simulates the real-world responsibilities of a Data Analyst, transforming raw retail data into actionable business intelligence. 
 
